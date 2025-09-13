@@ -616,6 +616,14 @@
             }
           );
 
+          // Check if response is actually JSON
+          const contentType = response.headers.get("content-type");
+          if (!contentType || !contentType.includes("application/json")) {
+            throw new Error(
+              "Backend service is not responding correctly. Please try again in a minute."
+            );
+          }
+
           const result = await response.json();
 
           if (result.success) {
