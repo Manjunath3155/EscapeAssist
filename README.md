@@ -1,7 +1,7 @@
 # 🚨 BailMeOut  
 <sub>📱 Recommended to use on phone</sub>  
 
-A **simple web app** that helps you escape awkward situations by scheduling a **realistic emergency phone call** to yourself.  
+A fun app that fakes a phone call to help you escape awkward or boring situations — just tap **ESCAPE** 
 
 🌐 **Live Demo** → [bailme.netlify.app](https://bailme.netlify.app)  
 
