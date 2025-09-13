@@ -49,6 +49,9 @@ From your Twilio Console:
 - Copy your **Account SID** (starts with `AC...`)  
 - Copy your **Auth Token** (click “Show” to reveal)  
 
+<img width="510" height="917" alt="image" src="https://github.com/user-attachments/assets/81a6fe51-3eba-4fe6-995a-6355b4b58b64" />
+
+
 ### Step 3: Get a Free Phone Number  
 - In Twilio Console → **Phone Numbers → Manage → Buy a number**  
 - Pick any number (free with trial credits)  
@@ -66,6 +69,7 @@ From your Twilio Console:
 ### Step 5: You’re Ready!  
 - The app is now set up 🎉  
 - Add it to your home screen for **one-tap emergency escapes**  
+<img width="532" height="928" alt="Screenshot 2025-09-13 223450" src="https://github.com/user-attachments/assets/9f2f0641-ec7f-4bed-8b5b-e074b6e64e14" />
 
 ---
 
